@@ -1,4 +1,5 @@
-![logo](Gayathri s.png)
+<!-- Banner -->
+![Banner](https://github.com/gayathrisubramani07/gayathrisubramani07/blob/main/Gayathri%20s.png)
 
 
 <!-- Header -->
