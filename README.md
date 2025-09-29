@@ -7,14 +7,13 @@
 <h1 align="center">Hi 👋, I'm Gayathri S</h1>
 <h3 align="center">💻 A passionate Java Full Stack developer from India</h3>
 
-<!-- Profile Views placed here -->
-<p align="left">
+<!-- Right Side Image -->
+<img align="right" alt="developer girl" width="400" src="https://i.pinimg.com/736x/0d/0d/ca/0d0dcab5f2a5ee77487ba0e9b4efbbbc.jpg">
+
+<!-- Profile Views -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=gayathrisubramani07&label=Profile%20Views&color=ff69b4&style=flat" alt="gayathrisubramani07" />
 </p>
-
-
-
-
 
 ---
 
