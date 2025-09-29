@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=gayathrisubramani07&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrisubramani07" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gayathrisubramani07" alt="gayathrisubramani07" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **Junior Software Developer role**
 - 🌱 I’m currently learning **Spring Framework**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gayathrisubramani07.github.io)
@@ -42,14 +36,6 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathrisubramani07&show_icons=true&locale=en&layout=compact" alt="gayathrisubramani07" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathrisubramani07&show_icons=true&locale=en" alt="gayathrisubramani07" />
 </p>
 
 <p>
