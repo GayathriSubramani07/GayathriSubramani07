@@ -1,3 +1,6 @@
+![logo]()
+
+
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Gayathri S</h1>
 <h3 align="center">💻 A passionate Java Full Stack developer from India</h3>
