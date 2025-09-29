@@ -1,43 +1,64 @@
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Gayathri S</h1>
-<h3 align="center">A passionate frontend & Java developer from India</h3>
+<h3 align="center">💻 Passionate Java Developer from India 🇮🇳</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gayathrisubramani07&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrisubramani07" />
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gayathrisubramani07&label=Profile%20Views&color=ff69b4&style=flat" alt="gayathrisubramani07" />
 </p>
 
-- 🔭 I’m currently working on **Junior Software Developer role**
-- 🌱 I’m currently learning **Spring Framework**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://gayathrisubramani07.github.io)
-- 💬 Ask me about **Core Java, Advanced Java, MySQL, Spring Boot, HTML, CSS, Hibernate**
-- 📫 How to reach me **gayathri.snjgm@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sGwix1ZbluInJFDch1TLv3vp1-np_EC4/view?usp=drivesdk)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 About Me  
+- 🔭 Currently working as **Junior Software Developer**  
+- 🌱 Learning & exploring **Spring Framework | Spring Boot | Hibernate**  
+- 💬 Ask me about **Core Java, Advanced Java, JEE, JSP, JDBC, MySQL, HTML, CSS**  
+- 📫 Reach me at **gayathri.snjgm@gmail.com**  
+- 🌐 Portfolio: [gayathrisubramani07.github.io](https://gayathrisubramani07.github.io)  
+- 📄 [My Resume](https://drive.google.com/file/d/1sGwix1ZbluInJFDch1TLv3vp1-np_EC4/view?usp=drivesdk)  
+
+---
+
+### 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/gayathri-subramani-07a611240/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gayathri.snjgm@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrisubramani07&" alt="gayathrisubramani07" />
+---
+
+### 📊 GitHub Contributions & Streaks  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrisubramani07&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📈 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrisubramani07&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### ✨ Fun Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
