@@ -7,15 +7,15 @@
 
 <!-- Right Side Image -->
 <img align="right" alt="developer girl" width="400" src="https://i.pinimg.com/736x/0d/0d/ca/0d0dcab5f2a5ee77487ba0e9b4efbbbc.jpg">
-
----
-
-### 🚀 About Me  
-
 <!-- Profile Views placed here -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gayathrisubramani07&label=Profile%20Views&color=ff69b4&style=flat" alt="gayathrisubramani07" />
 </p>
+---
+
+### 🚀 About Me  
+
+
 
 - 🔭 Currently working as **Junior Software Developer**  
 - 🌱 Learning & exploring **Spring Framework | Spring Boot | Hibernate**  
