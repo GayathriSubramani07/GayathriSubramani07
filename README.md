@@ -20,8 +20,7 @@
 - 🌱 Learning & exploring **Spring Framework | Spring Boot | Hibernate**  
 - 💬 Ask me about **Core Java, Advanced Java, JEE, JSP, JDBC, MySQL, HTML, CSS**  
 - 📫 Reach me at **gayathri.snjgm@gmail.com**  
-- 🌐 Portfolio: [gayathrisubramani07.github.io](https://gayathrisubramani07.github.io)  
-- 📄 [My Resume](https://drive.google.com/file/d/1sGwix1ZbluInJFDch1TLv3vp1-np_EC4/view?usp=drivesdk)  
+
 
 ---
 
