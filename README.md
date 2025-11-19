@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/gayathrisubramani07/gayathrisubramani07/blob/main/Gayathri%20s.png" alt="Banner" width="100%" height="450px">
+<img src="[https://github.com/gayathrisubramani07/gayathrisubramani07/blob/main/Gayathri%20s.png](https://github.com/GayathriSubramani07/GayathriSubramani07/blob/main/banner.jpg)" alt="Banner" width="100%" height="450px">
 
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Gayathri S</h1>
