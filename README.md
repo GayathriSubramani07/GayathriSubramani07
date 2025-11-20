@@ -19,7 +19,7 @@
 - 🔭 Currently working as **Junior Software Developer**  
 - 🌱 Learning & exploring **Spring Framework | Spring Boot | Hibernate**  
 - 💬 Ask me about **Core Java, Advanced Java, JEE, JSP, JDBC, MySQL, HTML, CSS**  
-- 📫 Reach me at **gayathri.snjgm@gmail.com**  
+- 📫 Reach me at **gayathrisubramani03@gmail.com**  
 
 
 ---
