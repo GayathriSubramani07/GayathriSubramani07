@@ -8,10 +8,7 @@
 <!-- Right Side Image -->
 <img align="right" alt="developer girl" width="400" src="https://i.pinimg.com/736x/0d/0d/ca/0d0dcab5f2a5ee77487ba0e9b4efbbbc.jpg">
 
-<!-- Profile Views (Moved above About Me) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gayathrisubramani07&label=Profile%20Views&color=ff69b4&style=flat" alt="gayathrisubramani07" />
-</p>
+
 
 ---
 
@@ -49,10 +46,7 @@
 
 ---
 
-### 📊 GitHub Contributions & Streaks  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayathrisubramani07&theme=radical" alt="GitHub Streak"/>
-</p>
+
 
 ---
 
